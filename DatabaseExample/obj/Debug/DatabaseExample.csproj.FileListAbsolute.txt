@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe.config
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.exe
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\bin\Debug\DatabaseExample.pdb
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Form1.resources
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.Properties.Resources.resources
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.exe
+C:\Users\Eren\source\repos\DatabaseExample\DatabaseExample\obj\Debug\DatabaseExample.pdb
